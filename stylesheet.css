@@ -1,0 +1,24 @@
+body {
+  text-align: center; /* centers the button */
+}
+
+#box {
+  width: 500px;
+  height: 500px;
+
+  /* centers the block */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.red {
+  background-color: #FF0000; /* red */
+}
+
+.blue {
+  background-color: #0000FF; /* blue */
+}
+
+#button {
+  margin-top: 50px;
+}
